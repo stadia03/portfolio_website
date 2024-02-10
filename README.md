@@ -1,6 +1,8 @@
 # portfolio_website
 
 Deployed link: https://gaurab.in
+https://gaurab.vercel.app/
+
 
 I've developed a personal portfolio website encompassing my achievements and projects. It also facilitates connections with others who wish to reach out to me.
 
